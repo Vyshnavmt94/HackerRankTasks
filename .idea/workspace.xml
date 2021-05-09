@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="itertools_combinations">
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/itertools_combination_with_replacement.py" afterDir="false" />
+    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="itertools_combination_with_replacement">
+      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/itertools_groupby.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.itertools_combinations">
+  <component name="RunManager" selected="Python.itertools_groupby">
     <configuration name="collections_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +93,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="itertools_groupby" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankTasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank_codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank_codes/itertools_groupby.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="itertools_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.itertools_groupby" />
         <item itemvalue="Python.itertools_combinations" />
         <item itemvalue="Python.itertools_permutations" />
         <item itemvalue="Python.collections_counter" />
@@ -154,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620559571338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="itertools_combination_with_replacement">
+      <created>1620562278802</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620562278802</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,29 +202,30 @@
     <MESSAGE value="collections_counter" />
     <MESSAGE value="itertools_permutations" />
     <MESSAGE value="itertools_combinations" />
-    <option name="LAST_COMMIT_MESSAGE" value="itertools_combinations" />
+    <MESSAGE value="itertools_combination_with_replacement" />
+    <option name="LAST_COMMIT_MESSAGE" value="itertools_combination_with_replacement" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="16" key="#collections_counter" timestamp="1620491647188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="16" key="#collections_counter/0.0.1536.824@0.0.1536.824" timestamp="1620491647188" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1620555495280">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1620568198390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620555495280" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1620555495280">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620568198390" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1620568198390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620555495280" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1620555495280">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620568198390" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1620568198390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620555495280" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1620555495280">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620568198390" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1620568198390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620555495280" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620568198390" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620559641301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
