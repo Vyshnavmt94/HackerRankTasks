@@ -46,12 +46,12 @@ Hence, the answer is .
 import itertools
 
 if __name__ == "__main__":
-    N = int(input())
-    letters = input().split()
-    K = int(input())
-    # N = 4
-    # letters = ["a","a","c","d"]
-    # K = 2
+    # N = int(input())
+    # letters = input().split()
+    # K = int(input())
+    N = 4
+    letters = ["a","a","c","d"]
+    K = 2
     assert 0 <= N <= 10
     assert 1 <= K <= N
     assert "".join(letters).islower()
