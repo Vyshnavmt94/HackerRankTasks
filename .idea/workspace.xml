@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="collections_default_dict">
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/collections_module/collections_named_tuple.py" afterDir="false" />
+    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="collections_named_tuple">
+      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/collections_module/collections_ordered_dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="D:\Pycharm_projects\HackerRankTasks\Hackerrank_codes\itertools" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.collections_named_tuple">
+  <component name="RunManager" selected="Python.collections_ordered_dict">
     <configuration name="collections_default_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="itertools_find_letter_a_in_index_slected" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="collections_ordered_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank_codes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hackerrank_codes/collections_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Pycharm_projects\HackerRankTasks\Hackerrank_codes\itertools\itertools_find_letter_a_in_index_slected.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hackerrank_codes/collections_module/collections_ordered_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.collections_ordered_dict" />
         <item itemvalue="Python.collections_named_tuple" />
         <item itemvalue="Python.collections_default_dict" />
         <item itemvalue="Python.itertools_maximize_function" />
         <item itemvalue="Python.itertools_groupby (1)" />
-        <item itemvalue="Python.itertools_find_letter_a_in_index_slected" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621153018355</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="collections_named_tuple">
+      <created>1621166431015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1621166431015</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +300,8 @@
     <MESSAGE value="itertools_maximize_function" />
     <MESSAGE value="Refactored" />
     <MESSAGE value="collections_default_dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections_default_dict" />
+    <MESSAGE value="collections_named_tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections_named_tuple" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="16" key="#collections_counter" timestamp="1620491647188">
@@ -304,22 +312,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1621150904631" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1621165353577">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1621169012031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621165353577" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1621165353576">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621169012031" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1621169012031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621165353576" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1621165353575">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621169012031" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1621169012031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621165353575" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1621165353576">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621169012031" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1621169012031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621165353576" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621169012031" />
     <state x="398" y="115" key="RollbackChangesDialog" timestamp="1621146995182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
