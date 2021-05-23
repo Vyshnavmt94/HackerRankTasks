@@ -39,18 +39,18 @@ Note: The string  has at least  distinct characters.
 """
 
 import collections
-import math
-import os
-import random
-import re
-import sys
 
+
+class OrderedCounter(collections.Counter, collections.OrderedDict):
+    pass
 
 
 if __name__ == '__main__':
     s = sorted(list(input()))
-    assert 3 < len(s) <= 10**4
+    assert 3 < len(s) <= 10 ** 4
     assert len(set(s)) >= 3
     res = sorted(collections.Counter(s).items(), key=lambda x: x[1], reverse=True)
     for i in range(3):
         print(*res[i])
+
+    # [print(*c) for c in OrderedCounter(sorted(input())).most_common(3)]
