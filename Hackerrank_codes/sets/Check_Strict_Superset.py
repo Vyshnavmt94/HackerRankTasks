@@ -38,7 +38,6 @@ Set  is the strict superset of the set but not of the set because  is not in set
 Hence, the output is False.
 """
 
-
 if __name__ == "__main__":
     A = set(map(int, input().split()))
     N = int(input())
