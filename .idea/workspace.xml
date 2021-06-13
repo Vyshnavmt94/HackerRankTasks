@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="Check_Strict_Superset">
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Math/Polar_Coordinates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Math/__init__.py" afterDir="false" />
+    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="Polar_Coordinates">
+      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Math/Find Angle MBC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hackerrank_codes/sets/Check_Strict_Superset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hackerrank_codes/sets/Check_Strict_Superset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623574713584</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Polar_Coordinates">
+      <created>1623577098060</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1623577098060</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +508,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="itertools_combination_with_replacement" />
     <MESSAGE value="itertools_groupby" />
     <MESSAGE value="find_letter_a_in_index_slected" />
     <MESSAGE value="itertools_maximize_function" />
@@ -528,7 +532,8 @@
     <MESSAGE value="captians_room" />
     <MESSAGE value="check_subset" />
     <MESSAGE value="Check_Strict_Superset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check_Strict_Superset" />
+    <MESSAGE value="Polar_Coordinates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polar_Coordinates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="16" key="#collections_counter" timestamp="1620491647188">
