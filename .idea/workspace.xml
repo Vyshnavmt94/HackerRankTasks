@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="Find Angle">
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Numpy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Numpy/array.py" afterDir="false" />
+    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="numpy_array">
+      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Numpy/array_shape.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -500,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623584272522</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="numpy_array">
+      <created>1624098095733</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1624098095733</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +522,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find_letter_a_in_index_slected" />
     <MESSAGE value="itertools_maximize_function" />
     <MESSAGE value="Refactored" />
     <MESSAGE value="collections_default_dict" />
@@ -541,7 +546,8 @@
     <MESSAGE value="Check_Strict_Superset" />
     <MESSAGE value="Polar_Coordinates" />
     <MESSAGE value="Find Angle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Angle" />
+    <MESSAGE value="numpy_array" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpy_array" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="16" key="#collections_counter" timestamp="1620491647188">
