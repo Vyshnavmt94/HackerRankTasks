@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="array_zeros_ones">
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Numpy/numpy_eye_identity.py" afterDir="false" />
+    <list default="true" id="c953f879-48e0-4454-97ff-a2ec46f5b4f4" name="Default Changelist" comment="numpy_sum_prod">
+      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/Numpy/numpy_min_max.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -534,7 +534,35 @@
       <option name="project" value="LOCAL" />
       <updated>1624123494337</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="numpy_eye_identity">
+      <created>1624688713053</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1624688713053</updated>
+    </task>
+    <task id="LOCAL-00042" summary="numpy_floor_ceil_rint">
+      <created>1624691219041</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1624691219041</updated>
+    </task>
+    <task id="LOCAL-00043" summary="numpy_array_mathematics">
+      <created>1624691397395</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1624691397395</updated>
+    </task>
+    <task id="LOCAL-00044" summary="numpy_sum_prod">
+      <created>1624693171695</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1624693171695</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -550,10 +578,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="collections_ordered_dict" />
-    <MESSAGE value="word_order" />
-    <MESSAGE value="collections_dequeue" />
-    <MESSAGE value="company_logo" />
     <MESSAGE value="piling_up" />
     <MESSAGE value="avg_distinct_heights" />
     <MESSAGE value="symmetric_difference" />
@@ -575,7 +599,11 @@
     <MESSAGE value="array_transpose_flatten" />
     <MESSAGE value="array_concatenate" />
     <MESSAGE value="array_zeros_ones" />
-    <option name="LAST_COMMIT_MESSAGE" value="array_zeros_ones" />
+    <MESSAGE value="numpy_eye_identity" />
+    <MESSAGE value="numpy_floor_ceil_rint" />
+    <MESSAGE value="numpy_array_mathematics" />
+    <MESSAGE value="numpy_sum_prod" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpy_sum_prod" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="16" key="#collections_counter" timestamp="1620491647188">
